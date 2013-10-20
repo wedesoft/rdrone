@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-TEST = false
+TEST = true
 require 'Qt4'
 require 'hornetseye_ffmpeg'
 require 'hornetseye_qt4'
